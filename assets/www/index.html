@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset='utf-8'/>
+	<meta name='viewport' content="width=device-width,initial-scale=1.0,user-scalable=no ">
+	<title>the simplest method </title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src='js/vue.js'></script>
+</head>
+<body>
+	<div id='vue1'>
+		<h2>the simplest method</h2>
+		<p>{{message}}</p>
+		<span>If you saw me be red,so indicate that the css file are loaded!</span>
+		<img src="image/obama.png">
+		<span>If you saw obama,so indicate that the image file are loaded!</span>
+		<br/>
+		<strong>Try the other interactions!</strong>
+		<br/>
+		<a href="#" v-for='aa in aas'>{{aa.text}}<br/></a>
+		<button v-on:click='go'>click</button>
+		<br/>
+		<input v-model='myname'/>
+		<todo-item v-bind:name='myname'></todo-item>
+	</div>
+<script type="text/javascript" src='js/1.js'></script>
+</body>
+</html>

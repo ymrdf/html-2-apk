@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	line-height: 1.5rem;
+}
+h2{
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+	margin:0;
+}
+span{
+	color:#f00;
+}
+img{
+	width: 30%;
+	display: block;
+	margin:0 auto;
+}
+button{
+	width: 100%;
+}
