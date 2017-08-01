@@ -31,7 +31,10 @@ click 'CREACT',
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/06.png)
 <br >
 Now,you have created a new android project.The project's home directory is the /AppProjects/MyApp directory in your phone.
+
+
 ##Modify file
+
 Download files I had provided.
 <br >
 ```git clone https://github.com/ymrdf/html-2-apk```
@@ -43,7 +46,11 @@ Next ,replace /AppProjects/MyApp/app/src/main/java/com/mycompany/myapp/MainActiv
 Next ,replace /AppProjects/MyApp/app/src/main/res/layout/main.xml.
 <br >
 At last,copy the 'assets' folder into /AppProjects/MyApp/app/src/main.There is a sample html app in assets/www,you can replace it with your own.Only one thing to note,the html file must be 'index.html'.
+
+
 ##Test
+
+
 Now,you can see the effect.
 <br >
 Back to AIDE,click the triangular bitton,
@@ -55,7 +62,9 @@ click install,You should see a new app in your device like this.
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/13.png)
 <br>
 OK,you have successfully converted your html app to android app,and have installed it on your devices.Your '.apk' file is in /AppProjects/MyApp/app/build/bin/.
+
 ##Building the APK for Release
+
 Its time for you to deploy your Android app and get it into your users' hands.
 <br >
 Back to AIDE,tap Menu button,
