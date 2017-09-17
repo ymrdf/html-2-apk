@@ -53,7 +53,7 @@ At last,copy the 'assets' folder into /AppProjects/MyApp/app/src/main.There is a
 
 Now,you can see the effect.
 <br >
-Back to AIDE,click the triangular bitton,
+Back to AIDE,click the triangular button,
 <br >
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/07.png)
 <br>
