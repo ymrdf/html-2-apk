@@ -5,14 +5,14 @@
 
  Now,do it my way,you do not have to install JDK,you do not have to install Android SDK,you do not have to install eclipse or Android Studio and PhoneGap,and you don't need to spend money.More importantly than all of that,this is easy and simple.You can complete it in 10 minutes!Now,let's begin.
 
-##Tool
+## Tool
 
  First you'll need AIDE installed in your mobile phone.To be easy,it's the only tool we will use in this tutorial.
 <br >
 Open you mobile application store,search 'AIDE',and install it.
 <br >
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/02.png)
-##Create new app
+## Create new app
 <br >
 Open AIDE,
 <br >
@@ -33,7 +33,7 @@ click 'CREACT',
 Now,you have created a new android project.The project's home directory is the /AppProjects/MyApp directory in your phone.
 
 
-##Modify file
+## Modify file
 
 Download files I had provided.
 <br >
@@ -48,7 +48,7 @@ Next ,replace /AppProjects/MyApp/app/src/main/res/layout/main.xml.
 At last,copy the 'assets' folder into /AppProjects/MyApp/app/src/main.There is a sample html app in assets/www,you can replace it with your own.Only one thing to note,the html file must be 'index.html'.
 
 
-##Test
+## Test
 
 
 Now,you can see the effect.
@@ -63,7 +63,7 @@ click install,You should see a new app in your device like this.
 <br>
 OK,you have successfully converted your html app to android app,and have installed it on your devices.Your '.apk' file is in /AppProjects/MyApp/app/build/bin/.
 
-##Building the APK for Release
+## Building the APK for Release
 
 Its time for you to deploy your Android app and get it into your users' hands.
 <br >
